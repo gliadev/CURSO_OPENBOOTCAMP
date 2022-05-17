@@ -1,4 +1,5 @@
 package com.conceptos;
 
-public class CocheHibrido {
+public class CocheHibrido extends Coche{
+    String motorHibrido;
 }

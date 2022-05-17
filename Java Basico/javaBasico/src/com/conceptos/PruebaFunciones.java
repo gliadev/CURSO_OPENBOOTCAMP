@@ -1,4 +1,4 @@
-package com.company;
+package com.conceptos;
 
 public class PruebaFunciones {
     public static void main(String[] args) {
