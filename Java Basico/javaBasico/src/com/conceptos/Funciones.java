@@ -7,13 +7,11 @@ public class Funciones {
 
     }
 
-    private static void saludo() {
+    public static void saludo() {
         System.out.println("Hola Mundo");
         System.out.println("HOla Mundo");
     }
 
-    private static String devolverHolaMundo{
-        System.out.print("Hola")
-    }
+
 
 }

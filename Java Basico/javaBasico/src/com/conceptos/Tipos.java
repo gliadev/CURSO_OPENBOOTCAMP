@@ -17,11 +17,11 @@ public class Tipos {
         double decimal2 = 9.99d;
 
         // caracter
-        char caracter1 = "a";
+       // char caracter1 = "a";
 
         // boleanos
         boolean verdadero = true;
-        boolean false = false;
+
 
         // cadena de texto
         String nombre = "Alan";
