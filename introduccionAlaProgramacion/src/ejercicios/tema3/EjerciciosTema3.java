@@ -1,4 +1,4 @@
-package ejercicios;
+package ejercicios.tema3;
 /*
 
 Primera parte:
