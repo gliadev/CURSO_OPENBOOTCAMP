@@ -5,7 +5,8 @@ En este ejercicio practicarás las estructuras de control, para ello deberás cr
 Usando un if, crear una condición que compare si la variable numeroIf es positivo, negativo, o 0.
 Pista: Los números inferiores a 0 son negativos y los superiores, positivos.
 
-Crea un bucle While, este bucle tendrá que tener como condición que la variable numeroWhile sea inferior a 3, el bloque de código que tendrá el bucle deberá:
+Crea un bucle While, este bucle tendrá que tener como condición que la variable numeroWhile sea inferior a 3,
+el bloque de código que tendrá el bucle deberá:
 
 Incrementar el valor de la variable en uno cada vez que se ejecute.
 
@@ -25,8 +26,55 @@ en la que está. También habrá que poner un default para cuando el valor de la
  */
 package ejercicios.tema4;
 
-public class Ejercicio4 {
+public class EjercicioTema4 {
     public static void main(String[] args) {
+
+        int numeroif = 13;
+        if( numeroif > 0 ){
+            System.out.println(numeroif + " Es un numero positivo");
+        } else {
+            System.out.println(numeroif + "Es un numero negativo");
+            System.out.println();
+        }
+
+
+        int numeroWhile = 0;
+        while (numeroWhile < 3){
+            numeroWhile++;
+            System.out.println("numeroWhile vale " +numeroWhile);
+        }
+
+        int numeroDoWhile = 2;
+        do{
+            numeroDoWhile++;
+            System.out.println("numeroDoWhile vale.." + numeroDoWhile);
+        } while (numeroDoWhile < 3);
+
+
+        int numeroFor = 0;
+        for (int i = 0; i <= 2; i++){
+            numeroFor++;
+            System.out.println("numeroFor vale: " + numeroFor);
+        }
+
+        String estacion = "verano";
+        switch(estacion) {
+            case "otoño":
+                System.out.println("Estamos en otoño");
+                break;
+            case "invierno":
+                System.out.println("Estamos en invierno");
+                break;
+            case "verano":
+                System.out.println("Estamos en verano");
+                break;
+            case "primavera":
+                System.out.println("Estamos en primavera");
+                break;
+            default:
+                System.out.println("No es una estación");
+        }
+
 
     }
 }
