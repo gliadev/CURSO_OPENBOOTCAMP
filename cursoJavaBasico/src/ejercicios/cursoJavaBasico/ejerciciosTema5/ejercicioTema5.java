@@ -1,11 +1,14 @@
 package ejercicios.cursoJavaBasico.ejerciciosTema5;
 
+import java.sql.Array;
+
 public class ejercicioTema5 {
     public interface CocheCRUD {
 
         void save();
         void findAll();
         void delete();
+        int numero[] = new int[10];
 
     }
 
