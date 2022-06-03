@@ -1,7 +1,6 @@
 package ejercicios.cursoJavaBasico.ejerciciosTema4;
 
-public class ejercicioTema4 {
-
+public class SmartDevice{
 
     // Se ha llamado a la clase ejercicio4 para una mejor organización, pero es la SmartDevice
 
