@@ -7,7 +7,7 @@
 
 
 
-package ejercicios.cursoJavaBasico;
+package ejercicios.cursoJavaBasico.ejerciciosTema2;
 
 public class ejercicosTema2 {
     public static void main(String[] args) {
