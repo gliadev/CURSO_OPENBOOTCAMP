@@ -1,0 +1,10 @@
+.boton:hover {
+    background-color: green;
+    color: white;
+}
+.boton::before {
+    content: " "
+}
+.boton:hover::before {
+    content: "¡Hecho! "
+}
