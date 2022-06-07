@@ -11,7 +11,7 @@
 }
 
 .input-moderno {
-    border: none;
+    border: 1px solid red;
     border-bottom: 1px solid #c2c2c2;
     outline: none;
     padding: 5px;
