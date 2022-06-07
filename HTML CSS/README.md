@@ -1,4 +1,4 @@
-eplica el ejercicio del vídeo 3 de esta sesión y realiza el siguiente cambio:
+Replica el ejercicio del vídeo 3 de esta sesión y realiza el siguiente cambio:
 
 Replícalo exactamente igual, pero realiza una nueva versión en modo oscuro
 
