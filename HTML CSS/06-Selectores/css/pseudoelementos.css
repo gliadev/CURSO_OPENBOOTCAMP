@@ -43,3 +43,11 @@ span.frase::after {
 .listado li::marker {
     color: red;
 }
+
+nav > a:hover::before{
+
+}
+
+nav > a{
+    
+}
