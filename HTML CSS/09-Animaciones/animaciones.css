@@ -20,20 +20,20 @@
 
 @keyframes traslacion {
     0% {
-        background-color: beige;
+        background-color: rgb(167, 18, 18);
         transform: translateX(0%) translateY(0%);
     }
     25% {
-        transform: translateX(100%) translateY(0%);
+        transform: translateX(100%) translateY(25%);
     }
     50% {
-        transform: translateX(100%) translateY(100%);
+        transform: translateX(100%) translateY(10%);
     }
     75% {
         transform: translateX(0%) translateY(100%);
     }
     100% {
-        background-color: darkorange;
+        background-color: rgb(194, 150, 184);
         transform: translateX(0%) translateY(0%);
     }
 }
