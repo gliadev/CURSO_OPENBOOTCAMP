@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio02",
+  "version": "1.0.0",
+  "description": "Crea un nuevo archivo JS que contenga una lista con los siguientes elementos:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adolfo gomez",
+  "license": "ISC"
+}
