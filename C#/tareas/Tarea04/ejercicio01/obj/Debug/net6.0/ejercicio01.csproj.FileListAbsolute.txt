@@ -1,0 +1,15 @@
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\bin\Debug\net6.0\ejercicio01.exe
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\bin\Debug\net6.0\ejercicio01.deps.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\bin\Debug\net6.0\ejercicio01.runtimeconfig.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\bin\Debug\net6.0\ejercicio01.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\bin\Debug\net6.0\ejercicio01.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\obj\Debug\net6.0\ejercicio01.csproj.AssemblyReference.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\obj\Debug\net6.0\ejercicio01.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\obj\Debug\net6.0\ejercicio01.AssemblyInfoInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\obj\Debug\net6.0\ejercicio01.AssemblyInfo.cs
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\obj\Debug\net6.0\ejercicio01.csproj.CoreCompileInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\obj\Debug\net6.0\ejercicio01.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\obj\Debug\net6.0\refint\ejercicio01.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\obj\Debug\net6.0\ejercicio01.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\obj\Debug\net6.0\ejercicio01.genruntimeconfig.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio01\obj\Debug\net6.0\ref\ejercicio01.dll

@@ -1,0 +1,5 @@
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio02\obj\Debug\net6.0\ejercicio02.csproj.AssemblyReference.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio02\obj\Debug\net6.0\ejercicio02.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio02\obj\Debug\net6.0\ejercicio02.AssemblyInfoInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio02\obj\Debug\net6.0\ejercicio02.AssemblyInfo.cs
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\tareas\Tarea04\ejercicio02\obj\Debug\net6.0\ejercicio02.csproj.CoreCompileInputs.cache
