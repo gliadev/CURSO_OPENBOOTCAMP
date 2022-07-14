@@ -1,0 +1,15 @@
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\bin\Debug\net6.0\Math.exe
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\bin\Debug\net6.0\Math.deps.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\bin\Debug\net6.0\Math.runtimeconfig.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\bin\Debug\net6.0\Math.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\bin\Debug\net6.0\Math.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\obj\Debug\net6.0\Math.csproj.AssemblyReference.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\obj\Debug\net6.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\obj\Debug\net6.0\Math.AssemblyInfoInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\obj\Debug\net6.0\Math.AssemblyInfo.cs
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\obj\Debug\net6.0\Math.csproj.CoreCompileInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\obj\Debug\net6.0\Math.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\obj\Debug\net6.0\refint\Math.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\obj\Debug\net6.0\Math.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\obj\Debug\net6.0\Math.genruntimeconfig.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Math\obj\Debug\net6.0\ref\Math.dll

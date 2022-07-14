@@ -1,0 +1,15 @@
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\bin\Debug\net6.0\ejercicioBuclesII.exe
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\bin\Debug\net6.0\ejercicioBuclesII.deps.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\bin\Debug\net6.0\ejercicioBuclesII.runtimeconfig.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\bin\Debug\net6.0\ejercicioBuclesII.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\bin\Debug\net6.0\ejercicioBuclesII.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\obj\Debug\net6.0\ejercicioBuclesII.csproj.AssemblyReference.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\obj\Debug\net6.0\ejercicioBuclesII.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\obj\Debug\net6.0\ejercicioBuclesII.AssemblyInfoInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\obj\Debug\net6.0\ejercicioBuclesII.AssemblyInfo.cs
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\obj\Debug\net6.0\ejercicioBuclesII.csproj.CoreCompileInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\obj\Debug\net6.0\ejercicioBuclesII.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\obj\Debug\net6.0\refint\ejercicioBuclesII.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\obj\Debug\net6.0\ejercicioBuclesII.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\obj\Debug\net6.0\ejercicioBuclesII.genruntimeconfig.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Tareas\ejercicioBuclesII\obj\Debug\net6.0\ref\ejercicioBuclesII.dll

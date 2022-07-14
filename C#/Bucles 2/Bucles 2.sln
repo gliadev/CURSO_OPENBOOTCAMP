@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bucles 2", "Bucles 2.csproj", "{0EE0A36F-A481-4BA4-9470-CCE311DD71E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "..\Math\Math.csproj", "{14C438A6-7DCA-46DD-81C0-318470026108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE0A36F-A481-4BA4-9470-CCE311DD71E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE0A36F-A481-4BA4-9470-CCE311DD71E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE0A36F-A481-4BA4-9470-CCE311DD71E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE0A36F-A481-4BA4-9470-CCE311DD71E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C438A6-7DCA-46DD-81C0-318470026108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C438A6-7DCA-46DD-81C0-318470026108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C438A6-7DCA-46DD-81C0-318470026108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C438A6-7DCA-46DD-81C0-318470026108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {151DAD49-508A-4ABB-B3E7-CF1741D3D38C}
+	EndGlobalSection
+EndGlobal
