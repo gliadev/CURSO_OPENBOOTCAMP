@@ -1,1 +1,1 @@
-# Este codigo pertenece a los compas de openBootCamp, se ido copiando de sus clases, aunque hay ejercicios que son mios y otros que la estructura es de ellos ya que sin esa manera de plantearlos no se podian hacer.
+# Este código pertenece a  openBootCamp, se ido copiando de sus clases, aunque hay ejercicios que son míos y otros que la estructura es de ellos ya que sin esa manera de plantearlos no se podían hacer.
