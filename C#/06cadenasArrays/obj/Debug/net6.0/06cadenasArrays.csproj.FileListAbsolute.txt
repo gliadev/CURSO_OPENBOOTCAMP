@@ -1,0 +1,15 @@
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\bin\Debug\net6.0\06cadenasArrays.exe
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\bin\Debug\net6.0\06cadenasArrays.deps.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\bin\Debug\net6.0\06cadenasArrays.runtimeconfig.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\bin\Debug\net6.0\06cadenasArrays.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\bin\Debug\net6.0\06cadenasArrays.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\obj\Debug\net6.0\06cadenasArrays.csproj.AssemblyReference.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\obj\Debug\net6.0\06cadenasArrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\obj\Debug\net6.0\06cadenasArrays.AssemblyInfoInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\obj\Debug\net6.0\06cadenasArrays.AssemblyInfo.cs
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\obj\Debug\net6.0\06cadenasArrays.csproj.CoreCompileInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\obj\Debug\net6.0\06cadenasArrays.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\obj\Debug\net6.0\refint\06cadenasArrays.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\obj\Debug\net6.0\06cadenasArrays.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\obj\Debug\net6.0\06cadenasArrays.genruntimeconfig.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\06cadenasArrays\obj\Debug\net6.0\ref\06cadenasArrays.dll

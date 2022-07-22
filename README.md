@@ -1,1 +1,1 @@
-CURSO_OPENBOOTCAMP
+# Este codigo pertenece a los compas de openBootCamp, lo ido copiando de sus clases, aunque hay ejercicios que son mios y otros que la estructura es de ellos ya que sin esa manera de plantearlos no se podian hacer.
