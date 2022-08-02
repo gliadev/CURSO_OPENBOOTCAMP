@@ -1,0 +1,15 @@
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\bin\Debug\net6.0\FuncionesyMetodosI.exe
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\bin\Debug\net6.0\FuncionesyMetodosI.deps.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\bin\Debug\net6.0\FuncionesyMetodosI.runtimeconfig.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\bin\Debug\net6.0\FuncionesyMetodosI.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\bin\Debug\net6.0\FuncionesyMetodosI.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\obj\Debug\net6.0\FuncionesyMetodosI.csproj.AssemblyReference.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\obj\Debug\net6.0\FuncionesyMetodosI.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\obj\Debug\net6.0\FuncionesyMetodosI.AssemblyInfoInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\obj\Debug\net6.0\FuncionesyMetodosI.AssemblyInfo.cs
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\obj\Debug\net6.0\FuncionesyMetodosI.csproj.CoreCompileInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\obj\Debug\net6.0\FuncionesyMetodosI.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\obj\Debug\net6.0\refint\FuncionesyMetodosI.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\obj\Debug\net6.0\FuncionesyMetodosI.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\obj\Debug\net6.0\FuncionesyMetodosI.genruntimeconfig.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\FuncionesyMetodosI\obj\Debug\net6.0\ref\FuncionesyMetodosI.dll

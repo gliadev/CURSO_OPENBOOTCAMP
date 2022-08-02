@@ -1,0 +1,15 @@
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\bin\Debug\net6.0\MetodosII.exe
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\bin\Debug\net6.0\MetodosII.deps.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\bin\Debug\net6.0\MetodosII.runtimeconfig.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\bin\Debug\net6.0\MetodosII.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\bin\Debug\net6.0\MetodosII.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\obj\Debug\net6.0\MetodosII.csproj.AssemblyReference.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\obj\Debug\net6.0\MetodosII.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\obj\Debug\net6.0\MetodosII.AssemblyInfoInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\obj\Debug\net6.0\MetodosII.AssemblyInfo.cs
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\obj\Debug\net6.0\MetodosII.csproj.CoreCompileInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\obj\Debug\net6.0\MetodosII.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\obj\Debug\net6.0\refint\MetodosII.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\obj\Debug\net6.0\MetodosII.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\obj\Debug\net6.0\MetodosII.genruntimeconfig.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\MetodosII\obj\Debug\net6.0\ref\MetodosII.dll

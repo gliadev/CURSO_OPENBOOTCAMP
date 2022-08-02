@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQ", "LinQ.csproj", "{EC247BA9-2D39-43E9-8505-BC7DC150BA92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC247BA9-2D39-43E9-8505-BC7DC150BA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC247BA9-2D39-43E9-8505-BC7DC150BA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC247BA9-2D39-43E9-8505-BC7DC150BA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC247BA9-2D39-43E9-8505-BC7DC150BA92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {491DB460-6EB7-4476-B1C8-4E8504E839CB}
+	EndGlobalSection
+EndGlobal

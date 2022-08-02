@@ -1,0 +1,15 @@
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\bin\Debug\net6.0\Generics.exe
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\bin\Debug\net6.0\Generics.deps.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\bin\Debug\net6.0\Generics.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\bin\Debug\net6.0\Generics.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\obj\Debug\net6.0\Generics.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\obj\Debug\net6.0\refint\Generics.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\obj\Debug\net6.0\Generics.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\Generics\obj\Debug\net6.0\ref\Generics.dll

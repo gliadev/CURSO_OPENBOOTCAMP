@@ -1,0 +1,15 @@
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\bin\Debug\net6.0\LinQ.exe
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\bin\Debug\net6.0\LinQ.deps.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\bin\Debug\net6.0\LinQ.runtimeconfig.json
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\bin\Debug\net6.0\LinQ.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\bin\Debug\net6.0\LinQ.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\obj\Debug\net6.0\LinQ.csproj.AssemblyReference.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\obj\Debug\net6.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\obj\Debug\net6.0\LinQ.AssemblyInfoInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\obj\Debug\net6.0\LinQ.AssemblyInfo.cs
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\obj\Debug\net6.0\LinQ.csproj.CoreCompileInputs.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\obj\Debug\net6.0\LinQ.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\obj\Debug\net6.0\refint\LinQ.dll
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\obj\Debug\net6.0\LinQ.pdb
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\obj\Debug\net6.0\LinQ.genruntimeconfig.cache
+G:\GITHUB\CURSO_OPENBOOTCAMP\C#\linq\obj\Debug\net6.0\ref\LinQ.dll
