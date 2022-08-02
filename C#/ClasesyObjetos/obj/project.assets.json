@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\gliat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GITHUB\\CURSO_OPENBOOTCAMP\\C#\\ClasesyObjetos\\ClasesyObjetos.csproj",
+      "projectUniqueName": "C:\\Users\\gliat\\OneDrive\\Documents\\GITHUB\\CURSO_OPENBOOTCAMP\\C#\\ClasesyObjetos\\ClasesyObjetos.csproj",
       "projectName": "ClasesyObjetos",
-      "projectPath": "G:\\GITHUB\\CURSO_OPENBOOTCAMP\\C#\\ClasesyObjetos\\ClasesyObjetos.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "G:\\GITHUB\\CURSO_OPENBOOTCAMP\\C#\\ClasesyObjetos\\obj\\",
+      "projectPath": "C:\\Users\\gliat\\OneDrive\\Documents\\GITHUB\\CURSO_OPENBOOTCAMP\\C#\\ClasesyObjetos\\ClasesyObjetos.csproj",
+      "packagesPath": "C:\\Users\\gliat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gliat\\OneDrive\\Documents\\GITHUB\\CURSO_OPENBOOTCAMP\\C#\\ClasesyObjetos\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\gliat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
